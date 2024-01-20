@@ -1,7 +1,7 @@
 import ItemType from "./ItemType";
 
 type ListingPropsType = {
-    items: ItemType[];
-}
+  items: ItemType[];
+};
 
 export default ItemType;
